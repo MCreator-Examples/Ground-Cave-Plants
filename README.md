@@ -1,4 +1,4 @@
-# HANGING CAVE PLANTS
+# GROUND CAVE PLANTS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
 ## OVERVIEW
